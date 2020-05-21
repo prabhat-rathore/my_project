@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "247504093998",
+    "firebase_url": "https://fir-first-project-b7ab1.firebaseio.com",
+    "project_id": "fir-first-project-b7ab1",
+    "storage_bucket": "fir-first-project-b7ab1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:247504093998:android:2d882b3e7901de761ef0bf",
+        "android_client_info": {
+          "package_name": "com.example.dropdownapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "247504093998-tcdo93cb8vo9rqljp4fp4sji1qvi3n6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxC7Nqs-NIK78oXRQkyKp8C49CJPoL1hg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "247504093998-tcdo93cb8vo9rqljp4fp4sji1qvi3n6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
